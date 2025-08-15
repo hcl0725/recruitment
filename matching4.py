@@ -110,8 +110,22 @@ ProfessionalSalesMinor = ['sarah thompson']
 RiskManagementStatisticsMinor = ['Suzie Hudgens']
 SpanishMinor = ['Josie Mandrea']
 
-# HOMETOWNS
+# COLLEGE/TRACK
+CockrellSchoolofEngineering = ['Abby OGuynn', 'Alexandra Nicholls', 'Anna Woodson', 'Emily Bull', 'Gabrielle Beck', 'Katie Windell', 'Madeleine Mazingo', 'Mae Trahan', 'Maggie Shaw', 'Morgan Baumel', 'Ollie Mae Harrison', 'Nidhi Pappu']
+CollegeofEducation = ['Anika Novak', 'Chasiti Tyeryar', 'Claire Savage', 'Ella Pitts', 'Emily Robles', 'Erika Sandberg', 'Erika Sandberg', 'Hailey Brooks', 'Julia Lindstrom', 'Kamryn Jean', 'Karlie Haigood', 'Rachel Dolan', 'meghna sunkureddi', 'Haley Hooper']
+CollegeofFineArts = ['Ava Hurst', 'Jessica Paine', 'Katelyn Quintanilla']
+CollegeofLiberalArts = ['Abrielle Gallini', 'Alice Hudson', 'Alyssa Bouloy', 'Angie Andersen', 'Arabella Savener', 'Heidi Chapin', 'Kirthi Gummadi', 'Catalina Cruz', 'Delaney Vanderpool', 'Ella Leininger', 'Ellen Meltzer', 'Ellie Berman', 'Elyse Miller', 'Hazel Wells', 'Isabella Bartz', 'Jasmine Valdez', 'Jovanni Carrillo', 'Kate Neiman', 'Maya Abraham', 'Piper Buck', 'Riley Wanasek', 'Shelby', 'Sofia Arroyo', 'Taylor Jennings', 'sarah solomon', 'zoe alvarado', 'Josie Mandrea', 'Hana Sawaf', 'Aliyana Martinez']
+CollegeofNaturalSciences = ['Amelia Klyap', 'Brianna Salaices', 'Caitlin Van Sant', 'Emerson Oliver', 'Genesis Martinez', 'Izzy Davies', 'Jannae Ailawadhi', 'Jenn Rosado', 'Krissily Estacio', 'Lindsay McCullough', 'Mazzy Bledsoe', 'Megan Garza', 'Mia Vasquez', 'Suzie Hudgens', 'Sydney Fern', 'Rishona Mopur', 'Bridget Flatow', 'Regan Hill']
+McCombsSchoolofBusiness = ['Ava Dahlander', 'Catherine Dooley', 'Haylee Martin', 'Larkin Seidel', 'Diyaa Dossani', 'Meredith Moreland']
+MoodyCollegeofCommunication = ['Allie Harter', 'Avery McClure', 'Bella Anderson', 'Brooke Walker', 'Carly Schmidt', 'Catherine Favoriti', 'Celeste Tomberlin', 'Heidi Chapin', 'Kirthi Gummadi', 'Delaney O’Brien', 'Emma Schneidau', 'Ferzine Sanjana', 'Jillian Taylor', 'Diyaa Dossani', 'Katie Walsh', 'Kaylie Ngo', 'Liz Keegan', 'Marley Page', 'Meadow Votis', 'Sarah Sims', 'Sienna Shutts', 'Sophie Robins', 'Valentina Markov', 'sarah thompson', 'Aliyana Martinez', 'Sophie Shapiro']
+SchoolofArchitecture = ['Chloe Lim', 'Riley avery']
+SchoolofNursing = ['Bailey Alsup', 'Gabrielle Green', 'Maria Sepulveda Salazar']
+JacksonSchoolofGeosciences = ['Nidhi Pappu']
+PreMed = ['Abby Kant', 'Audrey Cooper', 'Emmerich Benavides', 'Maya Sajan', 'Abby Sanders']
+PreLaw = ['Abby Alsup', 'Bella Wernli', 'Charlize Stone', 'Lola Daffin', 'Zoe Veliz', 'Brianna', 'madison taylor', 'Hannah Greenhill', 'georgia key', 'Josie Mandrea']
+PrePharmacy = ['Bella Champion']
 
+# HOMETOWNS
 ArlingtonTX = ['Bella Wernli']
 ArlingtonVA = ['Abby Kant', 'Catherine Dooley']
 AustinTX = ['Abby Alsup', 'Arabella Savener', 'Bailey Alsup', 'Bella Anderson', 'Jannae Ailawadhi', 'Kaitlin Black', 'Marley Page', 'Charlize Stone', 'Regan Hill']
@@ -123,7 +137,7 @@ CleburneTX = ['Angie Andersen']
 CollegeStationTX = ['Taylor Jennings', 'Celeste Tomberlin']
 ColleyvilleTX = ['Anika Novak']
 CorpusChristiTX = ['Jovanni Carrillo', 'Karlie Haigood']
-DallasTX = ['Abby Sanders', 'Ava Dahlander', 'Carly Schmidt', 'Diyaa Dossani', 'Hazel Wells', 'Riley Wanasek', 'Claire Savage', 'Izzy Davies', 'Gabrielle Green', 'Delaney Oâ€™Brien', 'Zoe Veliz', 'Hana Sawaf']
+DallasTX = ['Abby Sanders', 'Ava Dahlander', 'Carly Schmidt', 'Diyaa Dossani', 'Hazel Wells', 'Riley Wanasek', 'Claire Savage', 'Izzy Davies', 'Gabrielle Green', 'Delaney O’Brien', 'Zoe Veliz', 'Hana Sawaf']
 DanvilleCA = ['Nidhi Pappu']
 DaytonOH = ['Valentina Markov']
 EaglePassTX = ['Ella Pitts']
@@ -270,7 +284,7 @@ UpliftNorthHillsPreparatory = ['Chloe Lim']
 UrsulineAcademyofDallas = ['Abby Sanders', 'Claire Savage']
 ValleyViewHighSchool = ['Genesis Martinez']
 VandegriftHighSchool = ['Marley Page', 'Kaitlin Black']
-WTWhiteHighSchool = ['Delaney Oâ€™Brien']
+WTWhiteHighSchool = ['Delaney O’Brien']
 WarrenHighSchool = ['Brianna']
 WashingtonLibertyHighSchool = ['Abby Kant']
 WestfieldHighSchool = ['Katie Walsh']
@@ -295,7 +309,7 @@ Band = ['Marley Page', 'Ferzine Sanjana', 'Suzie Hudgens', 'Sydney Fern', 'Kirth
 BestBuddies = ['Brianna Salaices', 'meghna sunkureddi', 'Lindsay McCullough', 'Izzy Davies', 'Zoe Veliz', 'Catherine Dooley']
 BookClub = ['Isabella Bartz']
 BoosterClub = ['madison taylor', 'Erika Sandberg']
-Cheer = ['Meredith Moreland', 'Genesis Martinez', 'Anna Woodson', 'Catalina Cruz', 'Allie Harter', 'Brooke Walker', 'Delaney OÃ¢â‚¬â„¢Brien', 'Ella Pitts', 'Erika Sandberg', 'Izzy Davies', 'Kaylie Ngo', 'Meadow Votis', 'Erika Sandberg', 'Amelia Klyap', 'Heidi Chapin', 'Angie Andersen', 'Gabrielle Green', 'Kate Neiman', 'Rishona Mopur']
+Cheer = ['Meredith Moreland', 'Genesis Martinez', 'Anna Woodson', 'Catalina Cruz', 'Allie Harter', 'Brooke Walker', 'Delaney O’Brien', 'Ella Pitts', 'Erika Sandberg', 'Izzy Davies', 'Kaylie Ngo', 'Meadow Votis', 'Erika Sandberg', 'Amelia Klyap', 'Heidi Chapin', 'Angie Andersen', 'Gabrielle Green', 'Kate Neiman', 'Rishona Mopur']
 Choir = ['Maya Sajan', 'Ellen Meltzer', 'Katelyn Quintanilla', 'Meadow Votis', 'Ava Dahlander', 'Jenn Rosado', 'Jessica Paine', 'Liz Keegan', 'Kaylie Ngo', 'Valentina Markov']
 ColorGuard = ['Sydney Fern', 'Carly Schmidt']
 DistributiveEducationClubsofAmericaDECA = ['Brianna Salaices', 'madison taylor', 'Katelyn Quintanilla', 'Delaney Vanderpool', 'Haylee Martin', 'Nidhi Pappu']
@@ -382,27 +396,61 @@ Volleyball = ['Bella Champion', 'Karlie Haigood', 'Hazel Wells', 'Gabrielle Gree
 WaterPolo = ['Valentina Markov', 'Audrey Cooper', 'Katie Windell', 'Hana Sawaf']
 Rowing = ['Valentina Markov', 'Jenn Rosado']
 
+# UT ORGS
+AdvertisingClub = ['Elyse Miller']
+ArchitectureClub = ['Riley avery']
+BroadcastingClub = ['Bella Anderson', 'Carly Schmidt', "Delaney O'Brien", 'Sienna Shutts', 'Celeste Tomberlin', 'Diyaa Dossani', 'Isabella Bartz', 'Kirthi Gummadi', 'Catalina Cruz', 'Regan Hill', 'Catherine Favoriti', 'Sophie Shapiro']
+BusinessFinanceMarketingEconomicsClub = ['Alice Hudson', 'Allie Harter', 'Haylee Martin', 'Jillian Taylor', 'Kaylie Ngo', 'Marley Page', 'Shelby', 'madison taylor', 'sarah thompson', 'Brianna', 'Suzie Hudgens', 'Katie Walsh', 'Catherine Dooley', 'Lola Daffin', 'Brooke Walker', 'Nidhi Pappu', 'Amelia Klyap', 'Meredith Moreland', 'Hana Sawaf']
+Challengers = ['Chasiti Tyeryar', 'Haley Hooper']
+UTChoir = ['Ava Hurst']
+CulturalClub = ['Diyaa Dossani', 'Isabella Bartz', 'Brianna', 'Julia Lindstrom', 'sarah solomon', 'Maria Sepulveda Salazar', 'meghna sunkureddi', 'Hana Sawaf']
+EnvironmentalSustainabilityClub = ['Katie Windell']
+EventHostingClub = ['Liz Keegan', 'Josie Mandrea']
+GovernmentClub = ['Kirthi Gummadi', 'Zoe Veliz', 'Brianna Salaices', 'Maya Abraham', 'Chloe Lim', 'Charlize Stone', 'Heidi Chapin', 'Riley Wanasek', 'Josie Mandrea', 'hana Sawaf']
+WomeninMedicine = ['Jannae Ailawadhi']
+Ignite = ['Haley Hooper','Audrey Cooper','Jessica Paine']
+IntramuralSports = ['Isabella Bartz', 'Regan Hill', 'Suzie Hudgens', 'Brianna Salaices', 'Maya Abraham', 'Angie Andersen', 'Bella Champion', 'Hazel Wells', 'Sophie Robins', 'Abby Kant', 'Abby Sanders', 'Lindsay McCullough', 'Jovanni Carrillo', 'Audrey Cooper', 'Erika Sandberg', 'Erika Sandberg', 'Abby OGuynn', 'Emmerich Benavides', 'Gabrielle Beck', 'Morgan Baumel', 'Riley avery', 'Ellen Meltzer', 'Hana Sawaf']
+JournalismMagazineOrganization = ['Katie Walsh', 'Catalina Cruz', 'Ellen Meltzer']
+NursingClub = ['Gabrielle Green']
+PerformingArtsClub = ['Catherine Favoriti', 'Chloe Lim', 'Abrielle Gallini', 'Kate Neiman', 'Katelyn Quintanilla', 'Kamryn Jean', 'Jessica Paine', 'Kaitlin Black', 'Emily Bull', 'georgia key']
+PhilosophyClub = ['Katie Windell', 'Arabella Savener']
+PreHealthClub = ['Brianna', 'Maria Sepulveda Salazar', 'Brianna Salaices', 'Abby Kant', 'Abby Sanders', 'Lindsay McCullough', 'Kamryn Jean', 'Avery McClure', 'Claire Savage', 'Genesis Martinez', 'Karlie Haigood', 'Maya Sajan', 'Mazzy Bledsoe', 'Megan Garza', 'Sofia Arroyo', 'Bailey Alsup', 'Izzy Davies', 'Sydney Fern', 'Rachel Dolan', 'Alyssa Bouloy']
+PreLawClub = ['Aliyana Martinez Kirthi Gummadi', 'Brianna', 'Catherine Dooley', 'Lola Daffin', 'Charlize Stone', 'Heidi Chapin', 'Riley Wanasek', 'Jovanni Carrillo', 'Bella Wernli', 'Ella Leininger', 'Hannah Greenhill', 'Piper Buck', 'Abby Alsup', 'Ferzine Sanjana', 'Josie Mandrea', 'Aliyana Martinez']
+ReligiousClub = ['Isabella Bartz', 'Brooke Walker', 'Maya Abraham', 'Heidi Chapin', 'Audrey Cooper', 'Erika Sandberg', 'Erika Sandberg', 'Jessica Paine', 'Kaitlin Black', 'Arabella Savener', 'Bailey Alsup', 'Izzy Davies', 'Sydney Fern', 'Abby Alsup', 'Ava Dahlander', 'Ella Pitts', 'Ellie Berman', 'Liz Keegan', 'Mia Vasquez', 'Emily Robles', 'Meadow Votis', 'Haley Hooper', 'Josie Mandrea']
+ResidenceHallAssociation = ['Anna Woodson']
+STEMClub = ['Regan Hill', 'Suzie Hudgens', 'Nidhi Pappu', 'Amelia Klyap', 'Katie Windell', 'Chloe Lim', 'Abby OGuynn', 'Emmerich Benavides', 'Gabrielle Beck', 'Morgan Baumel', 'Riley avery', 'Emily Bull', 'Rachel Dolan', 'Mia Vasquez', 'Alexandra Nicholls', 'Caitlin Van Sant', 'Jasmine Valdez', 'Jenn Rosado', 'Krissily Estacio', 'Madeleine Mazingo', 'Mae Trahan', 'Maggie Shaw', 'Taylor Jennings', 'Emerson Oliver', 'Ollie Mae Harrison']
+SocialInterestActivismClub = ['Isabella Bartz', 'Kirthi Gummadi', 'Regan Hill', 'Amelia Klyap', 'Chloe Lim', 'Riley avery', 'Ferzine Sanjana', 'Delaney Vanderpool', 'Emma Schneidau', 'Aliyana Martinez']
+SpiritOrg = ['Riley Wanasek', 'Emily Robles']
+SteelDanceCompany = ['georgia key']
+TeachersofTomorrow = ['Anika Novak', 'meghna sunkureddi', 'Haley hooper']
+TexasSupportsLiveMusic = ['Emerson Oliver', 'Sarah Sims']
+TheDailyTexan = ['Ellen Meltzer']
+ThemeParkEngineeringClub = ['Ollie Mae Harrison']
+WaterSkiingClub = ['Valentina Markov', 'Meadow Votis']
+WomeninBusinessAssociation = ['Meredith Moreland']
+WomeninPsychology = ['Alyssa Bouloy']
+
 # ACTIVITIES FOR FUN
 Basketballfun = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Morgan Baumel', 'Karlie Haigood']
 Biking = ['Julia Lindstrom', 'Caitlin Van Sant', 'Delaney Vanderpool', 'Charlize Stone', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Riley avery', 'Riley Wanasek', 'Kate Neiman', 'Katie Walsh', 'Josie Mandrea', 'Hana Sawaf', 'Sophie Shapiro ,']
 Boating = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Delaney Vanderpool', 'Charlize Stone', 'Amelia Klyap', 'Lindsay McCullough', 'Shelby', 'Sofia Arroyo', 'Erika Sandberg', 'Liz Keegan', 'Emerson Oliver', 'Hana Sawaf']
 Camping = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Delaney Vanderpool', 'Charlize Stone', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Riley avery', 'Riley Wanasek', 'Shelby', 'Meadow Votis', 'Ava Dahlander', 'Ava Hurst', 'Heidi Chapin', 'Ellie Berman', 'Mae Trahan', 'Regan Hill', 'Hana Sawaf', 'sophie shapiro']
-ConcertsLiveMusic = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Morgan Baumel', 'Delaney Vanderpool', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Kate Neiman', 'Katie Walsh', 'Sofia Arroyo', 'Erika Sandberg', 'Liz Keegan', 'Emerson Oliver', 'Meadow Votis', 'Ava Dahlander', 'Ava Hurst', 'Heidi Chapin', 'Ellie Berman', 'Mae Trahan', 'Madeleine Mazingo', 'Diyaa Dossani', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Katelyn Quintanilla', 'Abrielle Gallini', 'Ellen Meltzer', 'Chloe Lim', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Ollie Mae Harrison', 'Kirthi Gummadi', 'zoe alvarado', 'Claire Savage', 'georgia key', 'sarah thompson', 'sarah solomon', 'Avery McClure', 'Haylee Martin', 'Krissily Estacio', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Brianna', 'Ella Leininger', 'Emily Bull', 'Taylor Jennings', 'Delaney OÃ¢â‚¬â„¢Brien', 'Jannae Ailawadhi', 'Mia Vasquez', 'Anika Novak', 'Chasiti Tyeryar', 'Alice Hudson', 'Lola Daffin', 'Megan Garza', 'Emma Schneidau', 'Katie Windell', 'Allie Harter', 'Suzie Hudgens', 'Audrey Cooper', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Hannah Greenhill', 'Meredith Moreland', 'Emmerich Benavides', 'Anna Woodson', 'Zoe Veliz', 'Elyse Miller', 'Ella Pitts', 'Celeste Tomberlin', 'Mazzy Bledsoe', 'Catherine Favoriti', 'Kaylie Ngo', 'Nidhi Pappu', 'Maya Sajan', 'Catherine Dooley', 'Piper Buck', 'Ferzine Sanjana', 'Carly Schmidt', 'Hana Sawaf', 'Aliyana Martinez', 'Sophie Shapiro']
+ConcertsLiveMusic = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Morgan Baumel', 'Delaney Vanderpool', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Kate Neiman', 'Katie Walsh', 'Sofia Arroyo', 'Erika Sandberg', 'Liz Keegan', 'Emerson Oliver', 'Meadow Votis', 'Ava Dahlander', 'Ava Hurst', 'Heidi Chapin', 'Ellie Berman', 'Mae Trahan', 'Madeleine Mazingo', 'Diyaa Dossani', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Katelyn Quintanilla', 'Abrielle Gallini', 'Ellen Meltzer', 'Chloe Lim', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Ollie Mae Harrison', 'Kirthi Gummadi', 'zoe alvarado', 'Claire Savage', 'georgia key', 'sarah thompson', 'sarah solomon', 'Avery McClure', 'Haylee Martin', 'Krissily Estacio', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Brianna', 'Ella Leininger', 'Emily Bull', 'Taylor Jennings', 'Delaney O’Brien', 'Jannae Ailawadhi', 'Mia Vasquez', 'Anika Novak', 'Chasiti Tyeryar', 'Alice Hudson', 'Lola Daffin', 'Megan Garza', 'Emma Schneidau', 'Katie Windell', 'Allie Harter', 'Suzie Hudgens', 'Audrey Cooper', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Hannah Greenhill', 'Meredith Moreland', 'Emmerich Benavides', 'Anna Woodson', 'Zoe Veliz', 'Elyse Miller', 'Ella Pitts', 'Celeste Tomberlin', 'Mazzy Bledsoe', 'Catherine Favoriti', 'Kaylie Ngo', 'Nidhi Pappu', 'Maya Sajan', 'Catherine Dooley', 'Piper Buck', 'Ferzine Sanjana', 'Carly Schmidt', 'Hana Sawaf', 'Aliyana Martinez', 'Sophie Shapiro','Emily Robles']
 CountryDancing = ['Elyse Miller']
 Dancing = ['Maya Abraham', 'Amelia Klyap', 'Kaitlin Black', 'Alexandra Nicholls', 'Kate Neiman', 'Shelby', 'Sofia Arroyo', 'Erika Sandberg', 'Meadow Votis', 'Ava Dahlander', 'Madeleine Mazingo', 'Diyaa Dossani', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Katelyn Quintanilla', 'Abrielle Gallini', 'Ellen Meltzer', 'Chloe Lim', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Ollie Mae Harrison', 'Kirthi Gummadi', 'zoe alvarado', 'Claire Savage', 'georgia key', 'sarah thompson', 'Gabrielle Green', 'Sienna Shutts', 'Larkin Seidel', 'Catalina Cruz', 'Kamryn Jean', 'Emily Robles', 'Brooke Walker', 'Rishona Mopur']
-ExploringAustin = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Delaney Vanderpool', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Gabrielle Beck', 'Riley avery', 'Kate Neiman', 'Katie Walsh', 'Shelby', 'Sofia Arroyo', 'Erika Sandberg', 'Liz Keegan', 'Meadow Votis', 'Ava Dahlander', 'Ava Hurst', 'Heidi Chapin', 'Ellie Berman', 'Diyaa Dossani', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Katelyn Quintanilla', 'Abrielle Gallini', 'Ellen Meltzer', 'Chloe Lim', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Ollie Mae Harrison', 'Kirthi Gummadi', 'sarah solomon', 'Avery McClure', 'Haylee Martin', 'Krissily Estacio', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Brianna', 'Ella Leininger', 'Emily Bull', 'Taylor Jennings', 'Delaney OÃ¢â‚¬â„¢Brien', 'Jannae Ailawadhi', 'Mia Vasquez', 'Anika Novak', 'Chasiti Tyeryar', 'Alice Hudson', 'Lola Daffin', 'Megan Garza', 'Emma Schneidau', 'Katie Windell', 'Allie Harter', 'Suzie Hudgens', 'Audrey Cooper', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Hannah Greenhill', 'Meredith Moreland', 'Emmerich Benavides', 'Anna Woodson', 'Zoe Veliz', 'Elyse Miller', 'Ella Pitts', 'Celeste Tomberlin', 'Mazzy Bledsoe', 'Catherine Favoriti', 'Larkin Seidel', 'Catalina Cruz', 'Kamryn Jean', 'Genesis Martinez', 'Abby OGuynn', 'Maggie Shaw', 'Brianna Salaices', 'meghna sunkureddi', 'Alyssa Bouloy', 'Izzy Davies', 'Haley Hooper ', 'Josie Mandrea', 'Hana Sawaf', 'Aliyana Martinez', 'Sophie Shapiro']
+ExploringAustin = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Delaney Vanderpool', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Gabrielle Beck', 'Riley avery', 'Kate Neiman', 'Katie Walsh', 'Shelby', 'Sofia Arroyo', 'Erika Sandberg', 'Liz Keegan', 'Meadow Votis', 'Ava Dahlander', 'Ava Hurst', 'Heidi Chapin', 'Ellie Berman', 'Diyaa Dossani', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Katelyn Quintanilla', 'Abrielle Gallini', 'Ellen Meltzer', 'Chloe Lim', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Ollie Mae Harrison', 'Kirthi Gummadi', 'sarah solomon', 'Avery McClure', 'Haylee Martin', 'Krissily Estacio', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Brianna', 'Ella Leininger', 'Emily Bull', 'Taylor Jennings', 'Delaney O’Brien', 'Jannae Ailawadhi', 'Mia Vasquez', 'Anika Novak', 'Chasiti Tyeryar', 'Alice Hudson', 'Lola Daffin', 'Megan Garza', 'Emma Schneidau', 'Katie Windell', 'Allie Harter', 'Suzie Hudgens', 'Audrey Cooper', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Hannah Greenhill', 'Meredith Moreland', 'Emmerich Benavides', 'Anna Woodson', 'Zoe Veliz', 'Elyse Miller', 'Ella Pitts', 'Celeste Tomberlin', 'Mazzy Bledsoe', 'Catherine Favoriti', 'Larkin Seidel', 'Catalina Cruz', 'Kamryn Jean', 'Genesis Martinez', 'Abby OGuynn', 'Maggie Shaw', 'Brianna Salaices', 'meghna sunkureddi', 'Alyssa Bouloy', 'Izzy Davies', 'Haley Hooper ', 'Josie Mandrea', 'Hana Sawaf', 'Aliyana Martinez', 'Sophie Shapiro']
 FieldHockeyfun = ['Valentina Markov', 'Katie Walsh', 'Bridget Flatow']
 Fishing = ['Julia Lindstrom', 'Valentina Markov', 'Sarah Sims', 'Lindsay McCullough', 'Kaitlin Black', 'Sofia Arroyo', 'Emerson Oliver', 'Meadow Votis', 'sarah solomon', 'Jenn Rosado']
 Football = ['Valentina Markov', 'Emerson Oliver']
 Golfingfun = ['Caitlin Van Sant', 'Bella Champion', 'Riley avery', 'Katie Walsh', 'Mae Trahan', 'Diyaa Dossani', 'Isabella Bartz', 'Avery McClure', 'Haylee Martin', 'Emily Robles']
 Hiking = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Morgan Baumel', 'Delaney Vanderpool', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Riley avery', 'Kate Neiman', 'Shelby', 'Liz Keegan', 'Meadow Votis', 'Ava Hurst', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Katelyn Quintanilla', 'Krissily Estacio', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Brianna', 'Ella Leininger', 'Emily Bull', 'Taylor Jennings', 'Kaylie Ngo', 'Abby OGuynn', 'Maggie Shaw', 'Bella Wernli', 'Haley Hooper', 'Josie Mandrea', 'Hana Sawaf', 'Sophie shapiro']
-HorsebackRiding = ['Valentina Markov', 'Kate Neiman', 'Ava Hurst', 'Diyaa Dossani', 'Sydney Fern', 'Abrielle Gallini', 'Delaney OÃ¢â‚¬â„¢Brien']
+HorsebackRiding = ['Valentina Markov', 'Kate Neiman', 'Ava Hurst', 'Diyaa Dossani', 'Sydney Fern', 'Abrielle Gallini', 'Delaney O’Brien']
 Hunting = ['Valentina Markov', 'Karlie Haigood', 'Kaitlin Black', 'Sofia Arroyo', 'Meadow Votis', 'sarah solomon']
 IceSkating = ['Sydney Fern', 'Rachel Dolan', 'Krissily Estacio']
 Lacrossefun = ['Emerson Oliver', 'Jannae Ailawadhi', 'Mia Vasquez']
 PaddleboardingKayaking = ['Julia Lindstrom', 'Caitlin Van Sant', 'Delaney Vanderpool', 'Lindsay McCullough', 'Riley avery', 'Erika Sandberg', 'Ava Dahlander', 'Ava Hurst', 'Sydney Fern', 'Sophie Robins', 'Hailey Brooks', 'Abrielle Gallini', 'sarah solomon', 'Krissily Estacio', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Brianna', 'Ella Leininger', 'Jannae Ailawadhi', 'Anika Novak', 'Chasiti Tyeryar', 'Alice Hudson', 'Lola Daffin', 'Megan Garza', 'Emma Schneidau', 'Katie Windell', 'Abby OGuynn', 'Brianna Salaices', 'Arabella Savener', 'Josie Mandrea', 'Hana Sawaf', 'Aliyana Martinez', 'Sophie shapiro']
 Pickleball = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Bella Champion', 'Lindsay McCullough', 'Kaitlin Black', 'Riley Wanasek', 'Erika Sandberg', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'madison taylor', 'Ellen Meltzer', 'zoe alvarado', 'Avery McClure', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Brianna', 'Emily Bull', 'Jannae Ailawadhi', 'Anika Novak', 'Chasiti Tyeryar', 'Alice Hudson', 'Allie Harter', 'Suzie Hudgens', 'Audrey Cooper', 'Abby Sanders', 'Hazel Wells', 'Nidhi Pappu', 'Larkin Seidel', 'Emily Robles', 'Maggie Shaw', 'Brianna Salaices', 'meghna sunkureddi', 'Angie Andersen', 'Haley hooper', 'Josie Mandrea', 'sophie shapiro']
-Picnics = ['Caitlin Van Sant', 'Maya Abraham', 'Sarah Sims', 'Delaney Vanderpool', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Jovanni Carrillo', 'Riley avery', 'Shelby', 'Liz Keegan', 'Meadow Votis', 'Heidi Chapin', 'Isabella Bartz', 'Sydney Fern', 'Sophie Robins', 'Hailey Brooks', 'Jessica Paine', 'Chloe Lim', 'Haylee Martin', 'Krissily Estacio', 'Abby Alsup', 'Delaney OÃ¢â‚¬â„¢Brien', 'Anika Novak', 'Chasiti Tyeryar', 'Marley Page', 'Catalina Cruz', 'meghna sunkureddi', 'Alyssa Bouloy', 'Haley Hooper', 'sophie shapiro']
+Picnics = ['Caitlin Van Sant', 'Maya Abraham', 'Sarah Sims', 'Delaney Vanderpool', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Jovanni Carrillo', 'Riley avery', 'Shelby', 'Liz Keegan', 'Meadow Votis', 'Heidi Chapin', 'Isabella Bartz', 'Sydney Fern', 'Sophie Robins', 'Hailey Brooks', 'Jessica Paine', 'Chloe Lim', 'Haylee Martin', 'Krissily Estacio', 'Abby Alsup', 'Delaney O’Brien', 'Anika Novak', 'Chasiti Tyeryar', 'Marley Page', 'Catalina Cruz', 'meghna sunkureddi', 'Alyssa Bouloy', 'Haley Hooper', 'sophie shapiro']
 Pilates = ['Julia Lindstrom', 'Caitlin Van Sant', 'Maya Abraham', 'Bella Champion', 'Amelia Klyap', 'Lindsay McCullough', 'Jovanni Carrillo', 'Riley avery', 'Kate Neiman', 'Shelby', 'Heidi Chapin', 'Isabella Bartz', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jillian Taylor', 'Ellen Meltzer', 'Chloe Lim', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Ollie Mae Harrison', 'Claire Savage', 'georgia key', 'Krissily Estacio', 'Abby Kant', 'Taylor Jennings', 'Mia Vasquez', 'Alice Hudson', 'Lola Daffin', 'Allie Harter', 'Suzie Hudgens', 'Hannah Greenhill', 'Meredith Moreland', 'Nidhi Pappu', 'Maya Sajan', 'Catherine Dooley', 'Piper Buck', 'Larkin Seidel', 'Catalina Cruz', 'Emily Robles', 'Alyssa Bouloy', 'Izzy Davies', 'Josie Mandrea', 'Hana Sawaf']
 RockClimbingfun = ['Caitlin Van Sant', 'Delaney Vanderpool', 'Gabrielle Beck', 'Katie Walsh', 'Heidi Chapin', 'Sophie Robins', 'Catalina Cruz', 'sophie shapiro']
 RunningJoggingfun = ['Julia Lindstrom', 'Caitlin Van Sant', 'Sarah Sims', 'Delaney Vanderpool', 'Kaitlin Black', 'Gabrielle Beck', 'Riley avery', 'Riley Wanasek', 'Kate Neiman', 'Katie Walsh', 'Ava Dahlander', 'Isabella Bartz', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Katelyn Quintanilla', 'Abrielle Gallini', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Kirthi Gummadi', 'Krissily Estacio', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Emily Bull', 'Taylor Jennings', 'Jannae Ailawadhi', 'Lola Daffin', 'Allie Harter', 'Audrey Cooper', 'Hannah Greenhill', 'Emmerich Benavides', 'Maya Sajan', 'Larkin Seidel', 'Jenn Rosado', 'sophie shapiro ', 'sophie shapiro']
@@ -412,29 +460,29 @@ Surfing = ['Julia Lindstrom', 'Kate Neiman', 'Lola Daffin', 'Brooke Walker', 'Ha
 SwimmingDivingfun = ['Julia Lindstrom', 'Bella Champion', 'Karlie Haigood', 'Charlize Stone', 'Amelia Klyap', 'Gabrielle Beck', 'Katie Walsh', 'madison taylor', 'Jillian Taylor', 'Ellen Meltzer', 'Chloe Lim', 'Krissily Estacio', 'Alice Hudson', 'Audrey Cooper', 'Anna Woodson', 'Catherine Dooley', 'Aliyana Martinez', 'sophie shapiro']
 Tanning = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Delaney Vanderpool', 'Charlize Stone', 'Amelia Klyap', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Riley avery', 'Riley Wanasek', 'Kate Neiman', 'Erika Sandberg', 'Meadow Votis', 'Ava Dahlander', 'Ava Hurst', 'Heidi Chapin', 'Regan Hill', 'Sydney Fern', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jillian Taylor', 'Abrielle Gallini', 'Ellen Meltzer', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Ollie Mae Harrison', 'georgia key', 'sarah thompson', 'Avery McClure', 'Haylee Martin', 'Abby Alsup', 'Abby Kant', 'Bailey Alsup', 'Ella Leininger', 'Emily Bull', 'Taylor Jennings', 'Anika Novak', 'Chasiti Tyeryar', 'Alice Hudson', 'Lola Daffin', 'Megan Garza', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Emmerich Benavides', 'Anna Woodson', 'Zoe Veliz', 'Elyse Miller', 'Ella Pitts', 'Kaylie Ngo', 'Piper Buck', 'Larkin Seidel', 'Catalina Cruz', 'Emily Robles', 'Alyssa Bouloy', 'Izzy Davies', 'Jenn Rosado', 'Bella Wernli', 'Jasmine Valdez', 'Hana Sawaf', 'Aliyana Martinez']
 Tennisfun = ['Riley Wanasek', 'Kate Neiman', 'Rachel Dolan', 'Sophie Robins', 'Jessica Paine', 'Ellen Meltzer', 'Abby Sanders', 'Hazel Wells', 'Catherine Dooley', 'Ferzine Sanjana', 'Catalina Cruz', 'Emily Robles', 'Maggie Shaw', 'Angie Andersen', 'sophie shapiro']
-Thrifting = ['Julia Lindstrom', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Morgan Baumel', 'Delaney Vanderpool', 'Amelia Klyap', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Emerson Oliver', 'Meadow Votis', 'Ava Hurst', 'Heidi Chapin', 'Ellie Berman', 'Regan Hill', 'Diyaa Dossani', 'Isabella Bartz', 'Sophie Robins', 'madison taylor', 'Jessica Paine', 'Katelyn Quintanilla', 'Ellen Meltzer', 'Chloe Lim', 'Kirthi Gummadi', 'Krissily Estacio', 'Abby Alsup', 'Ella Leininger', 'Taylor Jennings', 'Delaney OÃ¢â‚¬â„¢Brien', 'Jannae Ailawadhi', 'Lola Daffin', 'Emma Schneidau', 'Katie Windell', 'Marley Page', 'Hannah Greenhill', 'Elyse Miller', 'Celeste Tomberlin', 'Carly Schmidt', 'Catalina Cruz', 'Emily Robles', 'Abby OGuynn', 'Izzy Davies', 'Bridget Flatow']
+Thrifting = ['Julia Lindstrom', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Morgan Baumel', 'Delaney Vanderpool', 'Amelia Klyap', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Emerson Oliver', 'Meadow Votis', 'Ava Hurst', 'Heidi Chapin', 'Ellie Berman', 'Regan Hill', 'Diyaa Dossani', 'Isabella Bartz', 'Sophie Robins', 'madison taylor', 'Jessica Paine', 'Katelyn Quintanilla', 'Ellen Meltzer', 'Chloe Lim', 'Kirthi Gummadi', 'Krissily Estacio', 'Abby Alsup', 'Ella Leininger', 'Taylor Jennings', 'Delaney O’Brien', 'Jannae Ailawadhi', 'Lola Daffin', 'Emma Schneidau', 'Katie Windell', 'Marley Page', 'Hannah Greenhill', 'Elyse Miller', 'Celeste Tomberlin', 'Carly Schmidt', 'Catalina Cruz', 'Emily Robles', 'Abby OGuynn', 'Izzy Davies', 'Bridget Flatow']
 Traveling = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Morgan Baumel', 'Delaney Vanderpool', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Riley avery', 'Kate Neiman', 'Shelby', 'Sofia Arroyo', 'Erika Sandberg', 'Liz Keegan', 'Meadow Votis', 'Ava Dahlander', 'Ava Hurst', 'Ellie Berman', 'Regan Hill', 'Diyaa Dossani', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Bella Anderson', 'zoe alvarado', 'georgia key', 'Haylee Martin', 'Krissily Estacio', 'Abby Alsup', 'Abby Kant', 'Brianna', 'Ella Leininger', 'Emily Bull', 'Taylor Jennings', 'Jannae Ailawadhi', 'Mia Vasquez', 'Anika Novak', 'Lola Daffin', 'Emma Schneidau', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Meredith Moreland', 'Emmerich Benavides', 'Elyse Miller', 'Ella Pitts', 'Celeste Tomberlin', 'Mazzy Bledsoe', 'Catherine Favoriti', 'Kaylie Ngo', 'Catherine Dooley', 'Piper Buck', 'Carly Schmidt', 'Larkin Seidel', 'Emily Robles', 'meghna sunkureddi', 'Alyssa Bouloy', 'Izzy Davies', 'Bella Wernli', 'Josie Mandrea', 'Aliyana Martinez', 'Charlize Stone']
 Triathlons = ['Katie Walsh']
 Volleyballfun = ['Bella Champion', 'Gabrielle Beck', 'Kate Neiman', 'Meadow Votis', 'Sydney Fern', 'madison taylor', 'Maria Sepulveda Salazar', 'Abby Kant', 'Emmerich Benavides', 'Elyse Miller', 'Nidhi Pappu', 'Abby OGuynn', 'Bella Wernli']
-WalksOutdoors = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Morgan Baumel', 'Delaney Vanderpool', 'Charlize Stone', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Riley avery', 'Kate Neiman', 'Shelby', 'Sofia Arroyo', 'Liz Keegan', 'Emerson Oliver', 'Ava Dahlander', 'Ellie Berman', 'Mae Trahan', 'Regan Hill', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Katelyn Quintanilla', 'Ellen Meltzer', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Kirthi Gummadi', 'sarah thompson', 'Abby Alsup', 'Bailey Alsup', 'Brianna', 'Ella Leininger', 'Emily Bull', 'Delaney OÃ¢â‚¬â„¢Brien', 'Jannae Ailawadhi', 'Chasiti Tyeryar', 'Lola Daffin', 'Emma Schneidau', 'Katie Windell', 'Allie Harter', 'Audrey Cooper', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Hannah Greenhill', 'Emmerich Benavides', 'Elyse Miller', 'Kaylie Ngo', 'Nidhi Pappu', 'Maya Sajan', 'Catherine Dooley', 'Larkin Seidel', 'Kamryn Jean', 'Abby OGuynn', 'meghna sunkureddi', 'Alyssa Bouloy', 'Izzy Davies', 'Bella Wernli', 'Jasmine Valdez', 'Josie Mandrea', 'Aliyana Martinez', 'sophie shapiro']
+WalksOutdoors = ['Julia Lindstrom', 'Caitlin Van Sant', 'Valentina Markov', 'Maya Abraham', 'Sarah Sims', 'Morgan Baumel', 'Delaney Vanderpool', 'Charlize Stone', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Riley avery', 'Kate Neiman', 'Shelby', 'Sofia Arroyo', 'Liz Keegan', 'Emerson Oliver', 'Ava Dahlander', 'Ellie Berman', 'Mae Trahan', 'Regan Hill', 'Isabella Bartz', 'Sydney Fern', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jessica Paine', 'Jillian Taylor', 'Katelyn Quintanilla', 'Ellen Meltzer', 'Bella Anderson', 'Maria Sepulveda Salazar', 'Kirthi Gummadi', 'sarah thompson', 'Abby Alsup', 'Bailey Alsup', 'Brianna', 'Ella Leininger', 'Emily Bull', 'Delaney O’Brien', 'Jannae Ailawadhi', 'Chasiti Tyeryar', 'Lola Daffin', 'Emma Schneidau', 'Katie Windell', 'Allie Harter', 'Audrey Cooper', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Hannah Greenhill', 'Emmerich Benavides', 'Elyse Miller', 'Kaylie Ngo', 'Nidhi Pappu', 'Maya Sajan', 'Catherine Dooley', 'Larkin Seidel', 'Kamryn Jean', 'Abby OGuynn', 'meghna sunkureddi', 'Alyssa Bouloy', 'Izzy Davies', 'Bella Wernli', 'Jasmine Valdez', 'Josie Mandrea', 'Aliyana Martinez', 'sophie shapiro']
 WaterSkiing = ['Delaney Vanderpool', 'Gabrielle Beck', 'Erika Sandberg', 'Meadow Votis', 'Sophie Robins', 'Chasiti Tyeryar', 'Hana Sawaf', 'Rishona Mopur']
 WorkingOut = ['Julia Lindstrom', 'Valentina Markov', 'Maya Abraham', 'Bella Champion', 'Karlie Haigood', 'Delaney Vanderpool', 'Amelia Klyap', 'Lindsay McCullough', 'Kaitlin Black', 'Alexandra Nicholls', 'Gabrielle Beck', 'Jovanni Carrillo', 'Riley Wanasek', 'Kate Neiman', 'Katie Walsh', 'Shelby', 'Sofia Arroyo', 'Meadow Votis', 'Heidi Chapin', 'Ellie Berman', 'Regan Hill', 'Diyaa Dossani', 'Isabella Bartz', 'Rachel Dolan', 'Sophie Robins', 'Hailey Brooks', 'madison taylor', 'Jillian Taylor', 'Abrielle Gallini', 'Ellen Meltzer', 'Chloe Lim', 'Maria Sepulveda Salazar', 'Kirthi Gummadi', 'georgia key', 'Avery McClure', 'Abby Alsup', 'Abby Kant', 'Emily Bull', 'Jannae Ailawadhi', 'Lola Daffin', 'Allie Harter', 'Audrey Cooper', 'Abby Sanders', 'Hazel Wells', 'Marley Page', 'Hannah Greenhill', 'Emmerich Benavides', 'Elyse Miller', 'Ella Pitts', 'Catherine Favoriti', 'Kaylie Ngo', 'Nidhi Pappu', 'Maya Sajan', 'Catherine Dooley', 'Piper Buck', 'Larkin Seidel', 'Emily Robles', 'meghna sunkureddi', 'Izzy Davies', 'Arabella Savener', 'Jasmine Valdez', 'Josie Mandrea', 'Hana Sawaf', 'Aliyana Martinez', 'sophie shaprio']
 Yoga = ['Julia Lindstrom', 'Maya Abraham', 'Sarah Sims', 'Bella Champion', 'Amelia Klyap', 'Lindsay McCullough', 'Kate Neiman', 'Katie Walsh', 'Shelby', 'Sofia Arroyo', 'Erika Sandberg', 'Liz Keegan', 'Meadow Votis', 'Heidi Chapin', 'Ellie Berman', 'Diyaa Dossani', 'Isabella Bartz', 'Rachel Dolan', 'Sophie Robins', 'Jillian Taylor', 'Katelyn Quintanilla', 'Ellen Meltzer', 'Chloe Lim', 'Maria Sepulveda Salazar', 'Ollie Mae Harrison', 'georgia key', 'Avery McClure', 'Krissily Estacio', 'Abby Kant', 'Taylor Jennings', 'Jannae Ailawadhi', 'Mia Vasquez', 'Anika Novak', 'Alice Hudson', 'Lola Daffin', 'Katie Windell', 'Allie Harter', 'Suzie Hudgens', 'Abby Sanders', 'Hazel Wells', 'Hannah Greenhill', 'Elyse Miller', 'Catherine Favoriti', 'Nidhi Pappu', 'Maya Sajan', 'Piper Buck', 'Larkin Seidel', 'Catalina Cruz', 'Emily Robles', 'Izzy Davies', 'Jasmine Valdez', 'Haley Hooper', 'Josie Mandrea', 'Aliyana Martinez', 'sophie shapiro']
-Animals = ['Sarah Sims', 'Shelby', 'Piper Buck', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Kirthi Gummadi', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'zoe alvarado', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Anika Novak', 'Delaney OÃ¢â‚¬â„¢Brien', 'sarah solomon', 'Liz Keegan', 'Ella Leininger', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Krissily Estacio', 'Mae Trahan', 'Kaylie Ngo', 'Brianna', 'Alexandra Nicholls', 'Valentina Markov', 'Zoe Veliz', 'Sofia Arroyo', 'Emma Schneidau', 'Marley Page', 'Gabrielle Green', 'Karlie Haigood', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'Brianna Salaices', 'georgia key', 'Megan Garza', 'Catherine Favoriti', 'Audrey Cooper', 'Kamryn Jean', 'Meredith Moreland', 'Hana Sawaf', '', 'Aliyana Martinez']
-ArtsandCrafts = ['Sarah Sims', 'Shelby', 'Piper Buck', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Kirthi Gummadi', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'zoe alvarado', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Anika Novak', 'Delaney OÃ¢â‚¬â„¢Brien', 'sarah solomon', 'Liz Keegan', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'sarah thompson', 'Angie Andersen', 'Gabrielle Beck', 'Bella Champion', 'Catalina Cruz', 'Isabella Bartz', 'Katie Windell', 'Jillian Taylor', 'Ferzine Sanjana', 'Abby Sanders', 'Alyssa Bouloy', 'Jenn Rosado', 'Carly Schmidt', 'Haley Hooper']
+Animals = ['Sarah Sims', 'Shelby', 'Piper Buck', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Kirthi Gummadi', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'zoe alvarado', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Anika Novak', 'Delaney O’Brien', 'sarah solomon', 'Liz Keegan', 'Ella Leininger', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Krissily Estacio', 'Mae Trahan', 'Kaylie Ngo', 'Brianna', 'Alexandra Nicholls', 'Valentina Markov', 'Zoe Veliz', 'Sofia Arroyo', 'Emma Schneidau', 'Marley Page', 'Gabrielle Green', 'Karlie Haigood', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'Brianna Salaices', 'georgia key', 'Megan Garza', 'Catherine Favoriti', 'Audrey Cooper', 'Kamryn Jean', 'Meredith Moreland', 'Hana Sawaf', '', 'Aliyana Martinez']
+ArtsandCrafts = ['Sarah Sims', 'Shelby', 'Piper Buck', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Kirthi Gummadi', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'zoe alvarado', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Anika Novak', 'Delaney O’Brien', 'sarah solomon', 'Liz Keegan', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'sarah thompson', 'Angie Andersen', 'Gabrielle Beck', 'Bella Champion', 'Catalina Cruz', 'Isabella Bartz', 'Katie Windell', 'Jillian Taylor', 'Ferzine Sanjana', 'Abby Sanders', 'Alyssa Bouloy', 'Jenn Rosado', 'Carly Schmidt', 'Haley Hooper']
 Baking = ['Sarah Sims', 'Shelby', 'Piper Buck', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Kirthi Gummadi', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'zoe alvarado', 'Ella Leininger', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Krissily Estacio', 'Mae Trahan', 'Kaylie Ngo', 'Brianna', 'Alexandra Nicholls', 'Valentina Markov', 'Zoe Veliz', 'Sofia Arroyo', 'Emma Schneidau', 'Marley Page', 'Gabrielle Green', 'Karlie Haigood', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'sarah thompson', 'Angie Andersen', 'Gabrielle Beck', 'Rachel Dolan', 'Anna Woodson', 'Maggie Shaw', 'Suzie Hudgens', 'Kaitlin Black', 'Izzy Davies', 'Emily Bull', 'Maria Sepulveda Salazar', 'Jannae Ailawadhi', 'Allie Harter', 'Ella Pitts', 'Emmerich Benavides', 'Haylee Martin', 'Madeleine Mazingo', 'Avery McClure', 'Arabella Savener', 'Abby OGuynn', 'Catherine Dooley', 'Haley Hooper']
 Boardgames = ['Sarah Sims', 'Shelby', 'Erika Sandberg', 'Ella Leininger', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Bella Champion', 'Catalina Cruz', 'Rachel Dolan', 'Anna Woodson']
 CoffeeTea = ['Sarah Sims', 'Piper Buck', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Ella Leininger', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Krissily Estacio', 'Mae Trahan', 'Kaylie Ngo', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'Brianna Salaices', 'georgia key', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'sarah thompson', 'Bella Champion', 'Isabella Bartz', 'Katie Windell', 'Jillian Taylor', 'Ferzine Sanjana', 'Abby Sanders', 'Alyssa Bouloy', 'Rachel Dolan', 'Maggie Shaw', 'Suzie Hudgens', 'Kaitlin Black', 'Izzy Davies', 'Emily Bull', 'Maria Sepulveda Salazar', 'Jannae Ailawadhi', 'Allie Harter', 'Ella Pitts', 'Emmerich Benavides', 'Haylee Martin', 'Madeleine Mazingo', 'Avery McClure', 'Diyaa Dossani', 'Hazel Wells', 'Maya Sajan', 'Ollie Mae Harrison', 'Mia Vasquez', 'Ava Dahlander', 'Taylor Jennings', 'Riley Wanasek', 'Lindsay McCullough', 'Alice Hudson', 'Delaney Vanderpool', 'Elyse Miller', 'Sienna Shutts', 'Hailey Brooks', 'Bella Wernli', 'Celeste Tomberlin', 'Abby Kant', 'Chasiti Tyeryar', 'Genesis Martinez', 'Emily Robles', 'Josie Mandrea', 'Aliyana Martinez']
-Cooking = ['Sarah Sims', 'Piper Buck', 'Kirthi Gummadi', 'Jovanni Carrillo', 'Riley avery', 'Anika Novak', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Brianna', 'Alexandra Nicholls', 'Valentina Markov', 'Ava Hurst', 'Megan Garza', 'Catherine Favoriti', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'Angie Andersen', 'Gabrielle Beck', 'Isabella Bartz', 'Jenn Rosado', 'Rachel Dolan', 'Anna Woodson', 'Suzie Hudgens', 'Kaitlin Black', 'Izzy Davies', 'Emily Bull', 'Maria Sepulveda Salazar', 'Jannae Ailawadhi', 'Allie Harter', 'Ella Pitts', 'Arabella Savener', 'Diyaa Dossani', 'Hazel Wells', 'Maya Sajan', 'Ollie Mae Harrison', 'Mia Vasquez', 'Heidi Chapin', 'Haley Hooper', 'Hana Sawaf']
-CrochetKnitting = ['Amelia Klyap', 'Kirthi Gummadi', 'Delaney OÃ¢â‚¬â„¢Brien', 'Krissily Estacio', 'Zoe Veliz', 'Lola Daffin', 'sarah thompson', 'Angie Andersen', 'Catalina Cruz', 'Katie Windell', 'Suzie Hudgens', 'Arabella Savener', 'Ava Dahlander', 'Haley Hooper']
-Drawing = ['Piper Buck', 'Chloe Lim', 'Sophie Robins', 'Erika Sandberg', 'Riley avery', 'Delaney OÃ¢â‚¬â„¢Brien', 'Mae Trahan', 'Ellen Meltzer', 'sarah thompson', 'Angie Andersen', 'Bella Champion', 'Catalina Cruz', 'Jenn Rosado', 'Abby OGuynn', 'Regan Hill']
+Cooking = ['Sarah Sims', 'Piper Buck', 'Kirthi Gummadi', 'Jovanni Carrillo', 'Riley avery', 'Anika Novak', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Brianna', 'Alexandra Nicholls', 'Valentina Markov', 'Ava Hurst', 'Megan Garza', 'Catherine Favoriti', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'Angie Andersen', 'Gabrielle Beck', 'Isabella Bartz', 'Jenn Rosado', 'Rachel Dolan', 'Anna Woodson', 'Suzie Hudgens', 'Kaitlin Black', 'Izzy Davies', 'Emily Bull', 'Maria Sepulveda Salazar', 'Jannae Ailawadhi', 'Allie Harter', 'Ella Pitts', 'Arabella Savener', 'Diyaa Dossani', 'Hazel Wells', 'Maya Sajan', 'Ollie Mae Harrison', 'Mia Vasquez', 'Heidi Chapin', 'Haley Hooper', 'Hana Sawaf','Emily Robles']
+CrochetKnitting = ['Amelia Klyap', 'Kirthi Gummadi', 'Delaney O’Brien', 'Krissily Estacio', 'Zoe Veliz', 'Lola Daffin', 'sarah thompson', 'Angie Andersen', 'Catalina Cruz', 'Katie Windell', 'Suzie Hudgens', 'Arabella Savener', 'Ava Dahlander', 'Haley Hooper','Abrielle Gallini']
+Drawing = ['Piper Buck', 'Chloe Lim', 'Sophie Robins', 'Erika Sandberg', 'Riley avery', 'Delaney O’Brien', 'Mae Trahan', 'Ellen Meltzer', 'sarah thompson', 'Angie Andersen', 'Bella Champion', 'Catalina Cruz', 'Jenn Rosado', 'Abby OGuynn', 'Regan Hill']
 ExploringNewRestaurants = ['Sarah Sims', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Kirthi Gummadi', 'Sophie Robins', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Anika Novak', 'sarah solomon', 'Liz Keegan', 'Ella Leininger', 'Kate Neiman', 'Julia Lindstrom', 'Zoe Veliz', 'Sofia Arroyo', 'Emma Schneidau', 'Hannah Greenhill', 'Morgan Baumel', 'Audrey Cooper', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'sarah thompson', 'Angie Andersen', 'Bella Champion', 'Catalina Cruz', 'Jillian Taylor', 'Rachel Dolan', 'Anna Woodson', 'Kaitlin Black', 'Izzy Davies', 'Emily Bull', 'Maria Sepulveda Salazar', 'Jannae Ailawadhi', 'Emmerich Benavides', 'Haylee Martin', 'Catherine Dooley', 'Ava Dahlander', 'Taylor Jennings', 'Riley Wanasek', 'Lindsay McCullough', 'Alice Hudson', 'Delaney Vanderpool', 'Elyse Miller', 'Sienna Shutts', 'Regan Hill', 'Caitlin Van Sant', 'Bella Anderson', 'Haley Hooper', 'Hana sawaf']
 Formula1 = ['Sarah Sims', 'Liz Keegan', 'Brianna Salaices', 'sarah thompson', 'Carly Schmidt', 'Suzie Hudgens', 'Diyaa Dossani', 'Taylor Jennings', 'Regan Hill', 'Brooke Walker', 'Nidhi Pappu']
 Governmentfun = ['Sarah Sims', 'Piper Buck', 'Chloe Lim', 'Abby Alsup', 'Jovanni Carrillo', 'Zoe Veliz', 'Hannah Greenhill', 'Morgan Baumel', 'Ellen Meltzer', 'Maya Abraham', 'Catalina Cruz', 'Ferzine Sanjana', 'Kaitlin Black', 'Arabella Savener', 'Riley Wanasek', 'Hailey Brooks', 'Bella Wernli', 'Heidi Chapin', 'Katie Walsh', 'Ellie Berman', 'Charlize Stone', 'Josey Mandrea', 'Aliyana Martinez', 'Aliyana Martinez']
 GraphicDesign = ['Liz Keegan', 'Maya Abraham', 'Catalina Cruz', 'Carly Schmidt', 'Celeste Tomberlin']
 Health = ['Shelby', 'Mazzy Bledsoe', 'Bailey Alsup', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Sofia Arroyo', 'Brianna Salaices', 'Megan Garza', 'Kamryn Jean', 'Sydney Fern', 'Lola Daffin', 'Bella Champion', 'Isabella Bartz', 'Abby Sanders', 'Rachel Dolan', 'Izzy Davies', 'Emily Bull', 'Maria Sepulveda Salazar', 'Emmerich Benavides', 'Hazel Wells', 'Maya Sajan', 'Lindsay McCullough', 'Alice Hudson', 'Abby Kant', 'Regan Hill', 'Caitlin Van Sant', 'Emerson Oliver', 'Josie Mandrea', 'Hana sawaf']
 Instagram = ['Sarah Sims', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'Erika Sandberg', 'Ella Leininger', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Krissily Estacio', 'Mae Trahan', 'Emma Schneidau', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'georgia key', 'Catherine Favoriti', 'Audrey Cooper', 'Sydney Fern', 'meghna sunkureddi', 'Maya Abraham', 'Katelyn Quintanilla', 'Angie Andersen', 'Bella Champion', 'Catalina Cruz', 'Isabella Bartz', 'Jillian Taylor', 'Ferzine Sanjana', 'Abby Sanders', 'Alyssa Bouloy', 'Jenn Rosado', 'Carly Schmidt', 'Kaitlin Black', 'Izzy Davies', 'Maria Sepulveda Salazar', 'Ella Pitts', 'Haylee Martin', 'Avery McClure', 'Diyaa Dossani', 'Hazel Wells', 'Maya Sajan', 'Ava Dahlander', 'Taylor Jennings', 'Alice Hudson', 'Elyse Miller', 'Sienna Shutts', 'Hailey Brooks', 'Celeste Tomberlin', 'Chasiti Tyeryar', 'Genesis Martinez', 'Emily Robles', 'Heidi Chapin', 'Regan Hill', 'Bella Anderson', 'Brooke Walker', 'Katie Walsh', 'Abrielle Gallini']
-ListeningtoMusic = ['Sarah Sims', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'zoe alvarado', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Anika Novak', 'Delaney OÃ¢â‚¬â„¢Brien', 'Liz Keegan', 'Ella Leininger', 'Kate Neiman', 'Larkin Seidel', 'Krissily Estacio', 'Mae Trahan', 'Kaylie Ngo', 'Brianna', 'Alexandra Nicholls', 'Valentina Markov', 'Zoe Veliz', 'Sofia Arroyo', 'Emma Schneidau', 'Marley Page', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'georgia key', 'Megan Garza', 'Catherine Favoriti', 'Audrey Cooper', 'Kamryn Jean', 'Meredith Moreland', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'sarah thompson', 'Angie Andersen', 'Gabrielle Beck', 'Bella Champion', 'Catalina Cruz', 'Jillian Taylor', 'Ferzine Sanjana', 'Jenn Rosado', 'Carly Schmidt', 'Rachel Dolan', 'Anna Woodson', 'Suzie Hudgens', 'Kaitlin Black', 'Izzy Davies', 'Emily Bull', 'Maria Sepulveda Salazar', 'Jannae Ailawadhi', 'Allie Harter', 'Ella Pitts', 'Emmerich Benavides', 'Haylee Martin', 'Madeleine Mazingo', 'Avery McClure', 'Arabella Savener', 'Abby OGuynn', 'Catherine Dooley', 'Diyaa Dossani', 'Hazel Wells', 'Maya Sajan', 'Ollie Mae Harrison', 'Ava Dahlander', 'Taylor Jennings', 'Riley Wanasek', 'Lindsay McCullough', 'Delaney Vanderpool', 'Elyse Miller', 'Sienna Shutts', 'Hailey Brooks', 'Celeste Tomberlin', 'Abby Kant', 'Chasiti Tyeryar', 'Genesis Martinez', 'Heidi Chapin', 'Regan Hill', 'Bella Anderson', 'Katie Walsh', 'Emerson Oliver', 'Claire Savage', 'Jasmine Valdez', 'Josie Mandrea', 'Hana sawaf']
+ListeningtoMusic = ['Sarah Sims', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'zoe alvarado', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Anika Novak', 'Delaney O’Brien', 'Liz Keegan', 'Ella Leininger', 'Kate Neiman', 'Larkin Seidel', 'Krissily Estacio', 'Mae Trahan', 'Kaylie Ngo', 'Brianna', 'Alexandra Nicholls', 'Valentina Markov', 'Zoe Veliz', 'Sofia Arroyo', 'Emma Schneidau', 'Marley Page', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'georgia key', 'Megan Garza', 'Catherine Favoriti', 'Audrey Cooper', 'Kamryn Jean', 'Meredith Moreland', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'sarah thompson', 'Angie Andersen', 'Gabrielle Beck', 'Bella Champion', 'Catalina Cruz', 'Jillian Taylor', 'Ferzine Sanjana', 'Jenn Rosado', 'Carly Schmidt', 'Rachel Dolan', 'Anna Woodson', 'Suzie Hudgens', 'Kaitlin Black', 'Izzy Davies', 'Emily Bull', 'Maria Sepulveda Salazar', 'Jannae Ailawadhi', 'Allie Harter', 'Ella Pitts', 'Emmerich Benavides', 'Haylee Martin', 'Madeleine Mazingo', 'Avery McClure', 'Arabella Savener', 'Abby OGuynn', 'Catherine Dooley', 'Diyaa Dossani', 'Hazel Wells', 'Maya Sajan', 'Ollie Mae Harrison', 'Ava Dahlander', 'Taylor Jennings', 'Riley Wanasek', 'Lindsay McCullough', 'Delaney Vanderpool', 'Elyse Miller', 'Sienna Shutts', 'Hailey Brooks', 'Celeste Tomberlin', 'Abby Kant', 'Chasiti Tyeryar', 'Genesis Martinez', 'Heidi Chapin', 'Regan Hill', 'Bella Anderson', 'Katie Walsh', 'Emerson Oliver', 'Claire Savage', 'Jasmine Valdez', 'Josie Mandrea', 'Hana sawaf']
 Musicals = ['Sarah Sims', 'Amelia Klyap', 'Sophie Robins', 'zoe alvarado', 'Liz Keegan', 'Krissily Estacio', 'Mae Trahan', 'Brianna', 'Alexandra Nicholls', 'Zoe Veliz', 'Ellen Meltzer', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'Katelyn Quintanilla', 'Isabella Bartz', 'Jillian Taylor', 'Ferzine Sanjana', 'Alyssa Bouloy', 'Kaitlin Black', 'Izzy Davies', 'Emily Bull', 'Ella Pitts', 'Arabella Savener', 'Diyaa Dossani', 'Hazel Wells', 'Ava Dahlander', 'Delaney Vanderpool', 'Regan Hill', 'Emerson Oliver']
 Pageants = ['Catalina Cruz']
 Painting = ['Shelby', 'Piper Buck', 'Chloe Lim', 'Abby Alsup', 'Jovanni Carrillo', 'Sophie Robins', 'Riley avery', 'Bailey Alsup', 'Ava Hurst', 'Ellen Meltzer', 'Meadow Votis', 'Lola Daffin', 'Maya Abraham', 'Katelyn Quintanilla', 'sarah thompson', 'Angie Andersen', 'Gabrielle Beck', 'Catalina Cruz', 'Haley Hooper']
@@ -445,7 +493,7 @@ PlayingaPercussionInstrument = ['Chloe Lim', 'Valentina Markov', 'Marley Page', 
 PlayingaStringInstrument = ["Delaney O'Brien", 'Krissily Estacio', 'Marley Page', 'Lola Daffin', 'Gabrielle Beck', 'Madeleine Mazingo', 'Arabella Savener', 'Elyse Miller', 'Bella Wernli', 'Brooke Walker']
 PlayingaWindInstrument = ['Kirthi Gummadi', 'Marley Page', 'Maya Abraham', 'Ferzine Sanjana']
 Podcasts = ['madison taylor', 'Jovanni Carrillo', 'Erika Sandberg', 'Julia Lindstrom', 'Krissily Estacio', 'Sofia Arroyo', 'Marley Page', 'Kamryn Jean', 'Meredith Moreland', 'Sydney Fern', 'Jessica Paine', 'Maya Abraham', 'Katelyn Quintanilla', 'Jillian Taylor', 'Ferzine Sanjana', 'Anna Woodson', 'Izzy Davies', 'Taylor Jennings', 'Elyse Miller', 'Hailey Brooks', 'Bella Wernli', 'Emerson Oliver', 'Josie Mandrea']
-PotteryCeramics = ['Shelby', 'Chloe Lim', 'Jovanni Carrillo', 'Riley avery', 'Liz Keegan', 'Krissily Estacio', 'Meadow Votis', 'Lola Daffin', 'Maya Abraham', 'Angie Andersen', 'Katie Windell', 'Heidi Chapin', '', 'Aliyana Martinez']
+PotteryCeramics = ['Shelby', 'Chloe Lim', 'Jovanni Carrillo', 'Riley avery', 'Liz Keegan', 'Krissily Estacio', 'Meadow Votis', 'Lola Daffin', 'Maya Abraham', 'Angie Andersen', 'Katie Windell', 'Heidi Chapin', 'Aliyana Martinez']
 Reading = ['Sarah Sims', 'Shelby', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'zoe alvarado', 'Bailey Alsup', 'Anika Novak', 'Liz Keegan', 'Kate Neiman', 'Krissily Estacio', 'Kaylie Ngo', 'Brianna', 'Zoe Veliz', 'Emma Schneidau', 'georgia key', 'Kamryn Jean', 'Ellen Meltzer', 'Sydney Fern', 'Jessica Paine', 'Lola Daffin', 'Maya Abraham', 'sarah thompson', 'Gabrielle Beck', 'Bella Champion', 'Isabella Bartz', 'Katie Windell', 'Jillian Taylor', 'Ferzine Sanjana', 'Alyssa Bouloy', 'Jenn Rosado', 'Carly Schmidt', 'Rachel Dolan', 'Anna Woodson', 'Suzie Hudgens', 'Kaitlin Black', 'Izzy Davies', 'Jannae Ailawadhi', 'Ella Pitts', 'Haylee Martin', 'Madeleine Mazingo', 'Arabella Savener', 'Diyaa Dossani', 'Hazel Wells', 'Maya Sajan', 'Ollie Mae Harrison', 'Mia Vasquez', 'Ava Dahlander', 'Taylor Jennings', 'Riley Wanasek', 'Delaney Vanderpool', 'Elyse Miller', 'Celeste Tomberlin', 'Abby Kant', 'Heidi Chapin', 'Regan Hill', 'Caitlin Van Sant', 'Bella Anderson', 'Nidhi Pappu', 'Abrielle Gallini']
 RoadTrips = ['Sarah Sims', 'Abby Alsup', 'Sophie Robins', 'Mazzy Bledsoe', 'zoe alvarado', 'Erika Sandberg', 'Riley avery', 'Bailey Alsup', 'Liz Keegan', 'Kaylie Ngo', 'Valentina Markov', 'Emma Schneidau', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'georgia key', 'Audrey Cooper', 'Kamryn Jean', 'Sydney Fern', 'Meadow Votis', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Maya Abraham', 'Gabrielle Beck', 'Bella Champion', 'Katie Windell', 'Jillian Taylor', 'Suzie Hudgens', 'Kaitlin Black', 'Izzy Davies', 'Jannae Ailawadhi', 'Ella Pitts', 'Emmerich Benavides', 'Haylee Martin', 'Diyaa Dossani', 'Mia Vasquez', 'Riley Wanasek', 'Delaney Vanderpool', 'Bella Wernli', 'Chasiti Tyeryar', 'Regan Hill', 'Ellie Berman', 'Abrielle Gallini', 'Hana sawaf']
 ScienceMarineScienceEcology = ['Amelia Klyap', 'Julia Lindstrom', 'Krissily Estacio', 'Ellen Meltzer', 'Lola Daffin', 'Bella Champion', 'Anna Woodson', 'Izzy Davies', 'Madeleine Mazingo', 'Mia Vasquez', 'Regan Hill', 'Caitlin Van Sant', 'Hana Sawaf']
@@ -455,7 +503,7 @@ Shopping = ['Sarah Sims', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison ta
 Singing = ['Chloe Lim', 'Liz Keegan', 'Krissily Estacio', 'Kaylie Ngo', 'Valentina Markov', 'Marley Page', 'Ava Hurst', 'Catherine Favoriti', 'Ellen Meltzer', 'Meadow Votis', 'Jessica Paine', 'Katelyn Quintanilla', 'Jenn Rosado', 'Kaitlin Black', 'Arabella Savener', 'Diyaa Dossani', 'Maya Sajan', 'Ava Dahlander', 'Regan Hill', 'Bella Anderson', 'Katie Walsh', 'Emerson Oliver']
 Skincare = ['Sarah Sims', 'Chloe Lim', 'madison taylor', 'Jovanni Carrillo', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Krissily Estacio', 'Kaylie Ngo', 'Emma Schneidau', 'Gabrielle Green', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'georgia key', 'Megan Garza', 'Catherine Favoriti', 'Audrey Cooper', 'Kamryn Jean', 'Meredith Moreland', 'Ellen Meltzer', 'Jessica Paine', 'meghna sunkureddi', 'Lola Daffin', 'Bella Champion', 'Catalina Cruz', 'Isabella Bartz', 'Jillian Taylor', 'Rachel Dolan', 'Izzy Davies', 'Maria Sepulveda Salazar', 'Ella Pitts', 'Avery McClure', 'Hazel Wells', 'Maya Sajan', 'Ollie Mae Harrison', 'Ava Dahlander', 'Taylor Jennings', 'Lindsay McCullough', 'Abby Kant', 'Emily Robles', 'Heidi Chapin', 'Caitlin Van Sant', 'Jasmine Valdez', 'Josie Mandrea']
 SocialMedia = ['Sarah Sims', 'Amelia Klyap', 'Chloe Lim', 'Abby Alsup', 'madison taylor', 'Jovanni Carrillo', 'Sophie Robins', 'Mazzy Bledsoe', 'Erika Sandberg', 'Ella Leininger', 'Kate Neiman', 'Julia Lindstrom', 'Larkin Seidel', 'Krissily Estacio', 'Mae Trahan', 'Emma Schneidau', 'Ava Hurst', 'Hannah Greenhill', 'Morgan Baumel', 'georgia key', 'Catherine Favoriti', 'Audrey Cooper', 'Sydney Fern', 'meghna sunkureddi', 'Maya Abraham', 'Katelyn Quintanilla', 'Angie Andersen', 'Bella Champion', 'Catalina Cruz', 'Isabella Bartz', 'Jillian Taylor', 'Ferzine Sanjana', 'Abby Sanders', 'Alyssa Bouloy', 'Jenn Rosado', 'Carly Schmidt', 'Kaitlin Black', 'Izzy Davies', 'Maria Sepulveda Salazar', 'Ella Pitts', 'Haylee Martin', 'Avery McClure', 'Diyaa Dossani', 'Hazel Wells', 'Maya Sajan', 'Ava Dahlander', 'Taylor Jennings', 'Alice Hudson', 'Elyse Miller', 'Sienna Shutts', 'Hailey Brooks', 'Celeste Tomberlin', 'Chasiti Tyeryar', 'Genesis Martinez', 'Emily Robles', 'Heidi Chapin', 'Regan Hill', 'Bella Anderson', 'Brooke Walker', 'Katie Walsh', 'Abrielle Gallini']
-VideoGames = ['Sarah Sims']
+VideoGames = ['Sarah Sims','Krissily Estacio']
 Vlogging = ['Piper Buck', 'madison taylor', 'Sophie Robins', 'Kate Neiman', 'Catherine Favoriti', 'Katelyn Quintanilla', 'Catalina Cruz', 'Jillian Taylor', 'Carly Schmidt', 'Anna Woodson', 'Emily Robles', 'Regan Hill', 'Brooke Walker', 'Nidhi Pappu']
 WatchingSports = ['Julia Lindstrom']
 WatchingTVMovies = ['Julia Lindstrom']
@@ -463,6 +511,48 @@ Writing = ['Sarah Sims', 'Chloe Lim', 'Kate Neiman', 'Marley Page', 'Ellen Meltz
 Karaoke = ['Morgan Baumel']
 Plants = ['Morgan Baumel']
 RollerCoasters = ['Morgan Baumel']
+
+# SUMMER CAMPS
+AHECScienceSummerCamp = ['Maria Sepulveda Salazar']
+AllStarsSportsCamp = ['Regan Hill']
+BrookhillRanchCamp = ['Sydney Fern']
+CampAllen = ['Emerson Oliver']
+CampAlonim = ['Hailey Brooks']
+CampBalconesSprings = ['Jessica Paine']
+CampChoYeh = ['Erika Sandberg', 'Audrey Cooper']
+CampEagle = ['Meadow Votis']
+CampFireCamp = ['Angie Andersen']
+CampHoneyCreek = ['Gabrielle Beck']
+CampOzark = ['Catherine Favoriti', 'Mae Trahan', 'Madeleine Mazingo', 'Sophie Shapiro']
+CampRamahintheBerkshires = ['Ellie Berman']
+CampTallowood = ['Abby OGuynn']
+CampWaldemar = ['Sienna Shutts', 'Krissily Estacio', 'Emerson Oliver', 'Heidi Chapin']
+ChurchCamp = ['Emily Robles']
+FrostValleyYMCA = ['Amelia Klyap']
+FueledbyEnvision = ['Madeleine Mazingo']
+GrammyCamp = ['Liz Keegan']
+HinduHeritageYouthCamp = ['meghna sunkureddi']
+KidsActing = ['Regan Hill']
+PalaceTheatre = ['Regan Hill']
+PineCove = ['Bailey Alsup', 'Abby Alsup']
+RiceELITETechCamp = ['Madeleine Mazingo']
+RiceUniversityAerospaceandAviationAcademy = ['Madeleine Mazingo']
+RioGrandeSocietySummerCamp = ['Maria Sepulveda Salazar']
+RockyRiverRanch = ['Avery McClure']
+SierraVista = ['Meredith Moreland']
+SkillsUSATexasLeadershipCamp = ['Sienna Shutts']
+SkyRanch = ['Ava Dahlander', 'Diyaa Dossani']
+StMaryComputerScienceCamp = ['Maria Sepulveda Salazar']
+TCUTennisCamp = ['Angie Andersen']
+TexasAMStemCamp = ['Madeleine Mazingo']
+UTLatinAmericanStudies = ['Maria Sepulveda Salazar']
+UCBerkeleyMET = ['Nidhi Pappu']
+UniversityofDallasComputerScienceCamp = ['Maria Sepulveda Salazar']
+UTAustinNursingCamp = ['Maria Sepulveda Salazar']
+WetandWildCamp = ['Regan Hill']
+LakeoftheWoods = ['Josie Mandrea']
+CLTC = ['Josie Mandrea']
+BBYO = ['Josie Mandrea']
 
 # Dictionaries mapping interest name → list of people
 majors = {
@@ -537,8 +627,8 @@ minors = {
     "Chinese Minor": ChineseMinor,
     "Health Professions Minor": HealthProfessionsMinor,
     "Communicating Social Issues Minor": CommunicatingSocialIssuesMinor,
-    "CommunicationStudiesMinor": CommunicationStudiesMinor,
-    "ComputerScienceMinor": ComputerScienceMinor,
+    "Communication Studies Minor": CommunicationStudiesMinor,
+    "Computer Science Minor": ComputerScienceMinor,
     "Criminal Law, Justice, And Inequality Bridging Disciplines Program Minor": CriminalLawJusticeandInequalityBridgingDisciplinesProgramMinor,
     "Design Strategies Minor": DesignStrategiesMinor,
     "Educational Psychology Minor": EducationalPsychologyMinor,
@@ -555,12 +645,12 @@ minors = {
     "Interior Design Minor": InteriorDesignMinor,
     "Italian Minor": ItalianMinor,
     "Jefferson Scholar CTI Minor": JeffersonScholarCTIMinor,
-    "KinesiologyMinor": KinesiologyMinor,
+    "Kinesiology Minor": KinesiologyMinor,
     "Law Justice And Society Minor": LawJusticeAndSocietyMinor,
     "Media And Entertainment Industries Minor": MediaAndEntertainmentIndustriesMinor,
     "Physicians Assistant Minor": PhysiciansAssistantMinor,
-    "PatientsPractitionersAndCareMinor": PatientsPractitionersAndCareMinor,
-    "PreHealthMinor": PreHealthMinor,
+    "Patients Practitioners And Care Minor": PatientsPractitionersAndCareMinor,
+    "Pre Health Minor": PreHealthMinor,
     "Professional Sales And Business Development Minor": ProfessionalSalesAndBusinessDevelopmentMinor,
     "Social And Behavioral Sciences Minor": SocialAndBehavioralSciencesMinor,
     "Sports Production and Broadcast Minor": SportsProductionandBroadcastMinor,
@@ -572,6 +662,22 @@ minors = {
     "Professional Sales Minor": ProfessionalSalesMinor,
     "Risk Management Statistics Minor": RiskManagementStatisticsMinor,
     "Spanish Minor": SpanishMinor
+}
+
+college = {
+    "Cockrell School of Engineering": CockrellSchoolofEngineering,
+    "College of Education": CollegeofEducation,
+    "College of Fine Arts": CollegeofFineArts,
+    "College of Liberal Arts": CollegeofLiberalArts,
+    "College of Natural Sciences": CollegeofNaturalSciences,
+    "McCombs School of Business": McCombsSchoolofBusiness,
+    "Moody College of Communication": MoodyCollegeofCommunication,
+    "School of Architecture": SchoolofArchitecture,
+    "School of Nursing": SchoolofNursing,
+    "Jackson School of Geosciences": JacksonSchoolofGeosciences,
+    "Pre-Med": PreMed,
+    "Pre-Law": PreLaw,
+    "Pre-Pharmacy": PrePharmacy
 }
 
 hometowns = {
@@ -929,7 +1035,85 @@ activities = {
     "Plants": Plants,
     "Roller Coasters": RollerCoasters
 }
-    
+
+utorgs = {
+    "Advertising Club": AdvertisingClub,
+    "Architecture Club": ArchitectureClub,
+    "Broadcasting Club": BroadcastingClub,
+    "Business/Finance/Marketing/Economics Club": BusinessFinanceMarketingEconomicsClub,
+    "Challengers": Challengers,
+    "Choir ": UTChoir,
+    "Cultural Club": CulturalClub,
+    "Environmental/Sustainability Club": EnvironmentalSustainabilityClub,
+    "Event Hosting Club": EventHostingClub,
+    "Government Club": GovernmentClub,
+    "Women in Medicine": WomeninMedicine,
+    "Ignite": Ignite,
+    "Intramural Sports": IntramuralSports,
+    "Journalism/Magazine Organization": JournalismMagazineOrganization,
+    "Nursing Club": NursingClub,
+    "Performing Arts Club": PerformingArtsClub,
+    "Philosophy Club": PhilosophyClub,
+    "Pre Health Club": PreHealthClub,
+    "Pre Law Club": PreLawClub,
+    "Religious Club": ReligiousClub,
+    "Residence Hall Association": ResidenceHallAssociation,
+    "STEM Club": STEMClub,
+    "Social Interest/Activism Club": SocialInterestActivismClub,
+    "Spirit Org": SpiritOrg,
+    "Steel Dance Company": SteelDanceCompany,
+    "Teachers of Tomorrow": TeachersofTomorrow,
+    "Texas Supports Live Music": TexasSupportsLiveMusic,
+    "The Daily Texan": TheDailyTexan,
+    "Theme Park Engineering Club": ThemeParkEngineeringClub,
+    "Water Skiing Club": WaterSkiingClub,
+    "Women in Business Association": WomeninBusinessAssociation,
+    "Women in Psychology": WomeninPsychology
+}
+
+summercamps = {
+    "AHEC Science Summer Camp": AHECScienceSummerCamp,
+    "All Stars Sports Camp": AllStarsSportsCamp,
+    "Brookhill Ranch Camp": BrookhillRanchCamp,
+    "Camp Allen": CampAllen,
+    "Camp Alonim": CampAlonim,
+    "Camp Balcones Springs": CampBalconesSprings,
+    "Camp Cho Yeh": CampChoYeh,
+    "Camp Eagle": CampEagle,
+    "Camp Fire Camp": CampFireCamp,
+    "Camp Honey Creek": CampHoneyCreek,
+    "Camp Ozark": CampOzark,
+    "Camp Ramah in the Berkshires": CampRamahintheBerkshires,
+    "Camp Tallowood": CampTallowood,
+    "Camp Waldemar": CampWaldemar,
+    "Church Camp": ChurchCamp,
+    "Frost Valley YMCA": FrostValleyYMCA,
+    "Fueled by Envision": FueledbyEnvision,
+    "Grammy Camp": GrammyCamp,
+    "Hindu Heritage Youth Camp": HinduHeritageYouthCamp,
+    "Kids Acting": KidsActing,
+    "Palace Theatre": PalaceTheatre,
+    "Pine Cove": PineCove,
+    "Rice ELITE Tech Camp": RiceELITETechCamp,
+    "Rice University Aerospace and Aviation Academy": RiceUniversityAerospaceandAviationAcademy,
+    "Rio Grande Society Summer Camp": RioGrandeSocietySummerCamp,
+    "Rocky River Ranch": RockyRiverRanch,
+    "Sierra Vista": SierraVista,
+    "SkillsUSA Texas Leadership Camp": SkillsUSATexasLeadershipCamp,
+    "Sky Ranch": SkyRanch,
+    "St Mary Computer Science Camp": StMaryComputerScienceCamp,
+    "TCU Tennis Camp": TCUTennisCamp,
+    "Texas A&M Stem Camp": TexasAMStemCamp,
+    "UT Latin American Studies": UTLatinAmericanStudies,
+    "UC Berkeley MET": UCBerkeleyMET,
+    "University of Dallas Computer Science Camp": UniversityofDallasComputerScienceCamp,
+    "UT Austin Nursing Camp": UTAustinNursingCamp,
+    "Wet and Wild Camp": WetandWildCamp,
+    "Lake of the Woods": LakeoftheWoods,
+    "CLTC": CLTC,
+    "BBYO": BBYO
+}
+
 # ===== Streamlit UI =====
 st.title("Interest Finder")
 
@@ -950,6 +1134,9 @@ selected_majors = checkbox_columns(list(majors.keys()), num_cols=4)
 st.header("Minors"+"\U0001F4DD")
 selected_minors = checkbox_columns(list(minors.keys()), num_cols=4)
 
+st.header("College/Track"+"\U0001FA7A")
+selected_college = checkbox_columns(list(college.keys()), num_cols=4)
+
 st.header("Hometowns"+"\U0001F3E0")
 selected_hometowns = checkbox_columns(list(hometowns.keys()), num_cols=4)
 
@@ -959,10 +1146,16 @@ selected_schools = checkbox_columns(list(schools.keys()), num_cols=4)
 st.header("HS Extracurriculars"+"\U0001F483")
 selected_extras = checkbox_columns(list(extras.keys()), num_cols=4)
 
+st.header("UT Organizations"+"\U0000266B")
+selected_orgs = checkbox_columns(list(utorgs.keys()), num_cols=4)
+
 st.header("Activities/Interests for Fun"+"\U0001F3C3")
 selected_activities = checkbox_columns(list(activities.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_hometowns + selected_schools + selected_extras + selected_activities
+st.header("Summer Camp"+"\U0001F525")
+selected_summercamps = checkbox_columns(list(summercamps.keys()), num_cols=4)
+
+selected_interests = selected_majors + selected_minors + selected_college + selected_hometowns + selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -975,14 +1168,20 @@ if selected_interests:
             names = majors[interest]
         elif interest in minors:
             names = minors[interest]
+        elif interest in college:
+            names = college[interest]
         elif interest in hometowns:
             names = hometowns[interest]
         elif interest in schools:
             names = schools[interest]
         elif interest in extras:
             names = extras[interest]
+        elif interest in utorgs:
+            names = utorgs[interest]
         elif interest in activities:
             names = activities[interest]
+        elif interest in summercamps:
+            names = summercamps[interest]
         else:
             continue
 
@@ -1011,20 +1210,20 @@ if selected_interests:
     st.subheader("✅ All Matches")
     if all_match:
         for name, matches in all_match:
-            st.write(f"{name}: {', '.join(matches)}")
+            st.write(f"**{name}**: {', '.join(matches)}")
     else:
         st.write("(none)")
 
     st.subheader("🔹 Some Matches")
     if some_match:
         for name, matches in some_match:
-            st.write(f"{name}: {', '.join(matches)}")
+            st.write(f"**{name}**: {', '.join(matches)}")
     else:
         st.write("(none)")
 
     st.subheader("⚪ One Match")
     if one_match:
         for name, matches in one_match:
-            st.write(f"{name}: {', '.join(matches)}")
+            st.write(f"**{name}**: {', '.join(matches)}")
     else:
         st.write("(none)")
