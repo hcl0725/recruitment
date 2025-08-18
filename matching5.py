@@ -686,6 +686,11 @@ StarWars = ['Morgan Baumel', 'Aliyana Martinez']
 GoingtotheZoo = ['Haley Hooper']
 NYTGames = ['Haley Hooper']
 Legos = ['Aliyana Martinez']
+StudyAbroad = ['Marley Page','Catherine Favoriti','Zoe Alvarado','Brianna Salaices','Piper Buck','Morgan Baumel','Alexandra Nicholls','Heidi Chapin','Bailey Alsup','Meghna Sunkureddi']
+
+# TRANSFERS
+UTEP = ['Catalina Cruz']
+UTSA = ['Emma Schneidau', 'Erika Sandberg', 'Maya Abraham', 'Alyssa Bouloy']
 
 # Dictionaries mapping interest name → list of people
 majors = {
@@ -1377,7 +1382,13 @@ nicheinterests = {
     "Star Wars": StarWars,
     "Going to the Zoo": GoingtotheZoo,
     "NYT Games": NYTGames,
-    "Legos": Legos
+    "Legos": Legos,
+    "Study Abroad": StudyAbroad
+}
+
+transfers = {
+    "University of Texas at El Paso": UTEP,
+    "University of Texas at San Antonio": UTSA
 }
 
 # ===== Streamlit UI =====
@@ -1405,8 +1416,9 @@ selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.ke
 selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
 selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
 selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
+selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_college + selected_hometowns + selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests
+selected_interests = selected_majors + selected_minors + selected_college + selected_hometowns + selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -1435,6 +1447,8 @@ if selected_interests:
             names = summercamps[interest]
         elif interest in nicheinterests:
             names = nicheinterests[interest]
+        elif interest in transfers:
+            names = transfers[interest]
         else:
             continue
 
